@@ -1,3 +1,4 @@
 # Exemplo de requirements.txt
 # Adicione aqui as dependências do seu backend Python
 flask
+gunicorn
