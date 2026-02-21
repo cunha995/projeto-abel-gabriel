@@ -1,0 +1,10 @@
+{
+  "name": "projeto-abel-gabriel",
+  "version": "1.0.0",
+  "description": "Scripts automáticos para manutenção do projeto.",
+  "scripts": {
+    "corrigir:raiz": "corrigir_npm_raiz.bat",
+    "corrigir:contabilidade": "corrigir_npm_contabilidade.bat",
+    "dev": "cd contabilidade && npm run dev"
+  }
+}
